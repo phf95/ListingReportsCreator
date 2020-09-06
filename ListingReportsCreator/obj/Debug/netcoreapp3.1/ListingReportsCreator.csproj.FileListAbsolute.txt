@@ -1,0 +1,16 @@
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\bin\Debug\netcoreapp3.1\ListingReportsCreator.exe
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\bin\Debug\netcoreapp3.1\ListingReportsCreator.deps.json
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\bin\Debug\netcoreapp3.1\ListingReportsCreator.runtimeconfig.json
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\bin\Debug\netcoreapp3.1\ListingReportsCreator.runtimeconfig.dev.json
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\bin\Debug\netcoreapp3.1\ListingReportsCreator.dll
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\bin\Debug\netcoreapp3.1\ListingReportsCreator.pdb
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\obj\Debug\netcoreapp3.1\ListingReportsCreator.AssemblyInfoInputs.cache
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\obj\Debug\netcoreapp3.1\ListingReportsCreator.AssemblyInfo.cs
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\obj\Debug\netcoreapp3.1\ListingReportsCreator.csproj.CoreCompileInputs.cache
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\obj\Debug\netcoreapp3.1\ListingReportsCreator.csproj.CopyComplete
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\obj\Debug\netcoreapp3.1\ListingReportsCreator.dll
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\obj\Debug\netcoreapp3.1\ListingReportsCreator.pdb
+C:\Users\pauho\source\repos\ListingReportsCreator\ListingReportsCreator\obj\Debug\netcoreapp3.1\ListingReportsCreator.genruntimeconfig.cache
