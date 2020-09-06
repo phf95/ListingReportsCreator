@@ -16,7 +16,7 @@ namespace AutoScout24Listing.UnitTests
     {
         private IListingReports _listingReports = new ListingReports(new CsvHelper());
 
-        [TestMethod, Description("Test with valid data and 20M listings")]
+        [TestMethod, Description("Test with valid data")]
         public void StandardInputTest()
         {
             List<ListingEntity> listingList = GenerateInputStandardTest();
